@@ -1,0 +1,13 @@
+.comment{
+  margin-top: 150px;
+}
+.text{
+  width: 600px;
+  height: 400px;
+}
+#sidebar{
+  position: absolute;
+}
+.salka{
+  text-decoration: none;
+}
